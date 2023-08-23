@@ -48,4 +48,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This project is open-source and available under the [MIT License](https://choosealicense.com/licenses/mit/).
 ```
 
-Remember that some terminals might not support direct pasting, and in such cases, `vim` provides a paste mode to handle pasting content properly. You can enable it by typing `:set paste` before entering the insert mode. Once you've pasted your content, exit paste mode with `:set nopaste`.
