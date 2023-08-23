@@ -16,13 +16,13 @@ Pixel Art Creator is a simple GUI application written in Python using the `tkint
 2. Clone the repository or download the `pixel_art_app.py` file:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/everettwilson/Pixel_Art.git
 ```
 
-3. Navigate to the directory containing the `pixel_art_app.py` file:
+3. Navigate to the directory containing the `pixel_art.py` file:
 
 ```bash
-cd path/to/directory
+cd Pixel_Art
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ cd path/to/directory
 Run the program by specifying the grid size as an argument:
 
 ```bash
-python3 pixel_art_app.py 5
+python3 pixel_art.py 5
 ```
 
 The above command will produce a 5x5 grid. You can specify any grid size as per your preference.
