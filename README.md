@@ -1,5 +1,5 @@
 # Pixel Art Creator
-I used ChatGPT to help recreate one of my first (long-lost) projects I made outside of class in high school. I stayed up late several nights working on this. ChatGPT create this solution with probably 10% of the lines that I used originally, and functionality that I didn't know existed. Of course, it even wrote this README.md file. 
+I used ChatGPT to help recreate one of my first (long-lost) projects I made outside of class in high school. I had stayed up late several nights working on this. ChatGPT very quicly created this solution with probably 10% of the lines that I used originally, and functionality that I didn't know existed. Of course, it even wrote this README.md file. 
 
 Pixel Art Creator is a simple GUI application written in Python using the `tkinter` library. It allows users to create pixel art by clicking on a grid of squares, cycling through a set of predefined colors.
 
