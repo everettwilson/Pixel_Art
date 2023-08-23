@@ -13,7 +13,7 @@ Pixel Art Creator is a simple GUI application written in Python using the `tkint
 
 1. Ensure you have Python 3 installed. You can download it from [Python's official website](https://www.python.org/downloads/).
 
-2. Clone the repository or download the `pixel_art_app.py` file:
+2. Clone the repository or download the `pixel_art.py` file:
 
 ```bash
 git clone https://github.com/everettwilson/Pixel_Art.git
